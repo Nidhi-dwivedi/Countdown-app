@@ -36,7 +36,7 @@ countdown-timer/
 ├── README.md         # Project documentation
 
 ## 🎨 deployed/demo
--https://glittery-bubblegum-49dc60.netlify.app/-
+https://glittery-bubblegum-49dc60.netlify.app/
 
 ## 🌟 Contributing
 Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
